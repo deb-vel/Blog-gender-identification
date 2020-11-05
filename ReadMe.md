@@ -10,6 +10,10 @@
 * smallerDataSet.csv  contains the smaller data set extracted from the original. 
 * modifiedSet.csv is the same as the smallerDataSet.csv but has an extra column containing the preprocessed data.
 
+## PDF files:
+* NLP Assignment Specification 2019:2020.pdf: Contains the assignment specifications
+* NLP Report 2019:2020.pdf:  Contains the scientific report.
+
 ## Running the project:
 * A cmd file called RunMe.cmd is provided.
 * Double click it to start running the program in your command prompt.
