@@ -1,9 +1,9 @@
 ## Python files:
-main.py contains the main() function which is the runner. 
-Classifiers.py contains all the functions that implement different classifiers, passing the required parameters each time.
-DataPreprocessing.py performs data preprocessing.  This does not have to be used as the preprocessed data can be found in "modifiedSet.csv" under the "blogs" column.
-Vectorizers.py contains functions that perform feature extraction (Count vector, TF-IDF, word features and character features)
-yuleK.py contains the algorithm of yule K richness.
+* main.py contains the main() function which is the runner. 
+* Classifiers.py contains all the functions that implement different classifiers, passing the required parameters each time.
+* DataPreprocessing.py performs data preprocessing.  This does not have to be used as the preprocessed data can be found in "modifiedSet.csv" under the "blogs" column.
+* Vectorizers.py contains functions that perform feature extraction (Count vector, TF-IDF, word features and character features)
+* yuleK.py contains the algorithm of yule K richness.
 
 ## CSV files:
 * The large corpus is not provided as it was only used to extract a smaller one.  The link to the large corpus is provided as a link in the documentation.
